@@ -1,6 +1,12 @@
 # 👸 ◈Laboratorio GSAP SVG◈: Cuentos Infantiles 🐝
 
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 Comparto pequeñas animaciones que hice pensando en mi sobrina en época de pandemia. La temática que escogí fue de princesas para cuentos. Las hice para practicar desplazamientos animados y responsividad, incluyendo la modificación de vectores con Adobe Illustrator.
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+
+<p align="center">
+<img src="/img/pantallazo01.jpg" width="500" alt="Inicio">
+</p>
 
 ### 📚 Características:
 - **Tecnología:** JavaScript, librería **GSAP**, CSS 
