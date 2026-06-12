@@ -5,7 +5,7 @@ Comparto pequeñas animaciones que hice pensando en mi sobrina en época de pand
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 <p align="center">
-<img src="/img/pantallazo01.jpg" width="500" alt="Inicio">
+<img src="/img/pantallazo01.jpg" width="900" alt="Inicio">
 </p>
 
 ### 📚 Características:
